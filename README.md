@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/lourencomelo-it/**
 
-- Some of the repositories have been developed by my me and my college Fellows!
+- Some of the repositories have been developed by me and my college Fellows!
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
