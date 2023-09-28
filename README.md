@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/lourencomelo-it/**
 
+- Some of the repositories have been developed by my college Fellows and me! ;)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lourencomelo-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lourencomelo-it" height="30" width="40" /></a>
